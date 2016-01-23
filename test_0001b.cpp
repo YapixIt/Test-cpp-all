@@ -13,5 +13,6 @@ int main()
 	for (int k = 0; k < 3; k++)
 	{
 		cout << x_v;
+		//result(0x29ead00x29ead00x29ead0)
 	}
 }
