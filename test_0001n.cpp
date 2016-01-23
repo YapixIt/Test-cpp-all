@@ -15,7 +15,7 @@ int main()
 
 	for(int i = a; i < a - 1; i++)
 	{
-	cout << "Infinite generator in a for expression !"<< endl;
+	cout << "NULL"<< endl;
 	//result(NONE)
 	}
 }
