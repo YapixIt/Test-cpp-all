@@ -5,7 +5,7 @@
 using namespace std;
 
 /*
-		Array test !
+		NULL test !
 */
 
 int main()
