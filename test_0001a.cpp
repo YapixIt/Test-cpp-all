@@ -11,5 +11,6 @@ int main()
 	for (int i = 0; i < 3; i++)
 	{
 		cout << x[i];
+		//result(-211997042749)
 	}
 }
