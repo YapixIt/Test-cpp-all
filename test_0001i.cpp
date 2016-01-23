@@ -23,7 +23,7 @@ int main()
     {
     	int coeff = up[x] / down[x];
 		std::cout << "Proportionality coefficient : " << coeff << endl;
-    } else if ( down[x] > up[x])
+    } else if (down[x] > up[x])
     {
 		int i_coeff = down[x] / up [x];
 		std::cout << "Proportionality coefficient : " << i_coeff << endl;
