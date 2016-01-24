@@ -20,5 +20,5 @@ int main()
 
 	std::cout << pow(v_Map['a'], v_Map['a']);
 	//result pow(rand_x, rand_x)
-	//Firtst unit test result(2.56769e+042)
+	//First unit test result(2.56769e+042)
 }
