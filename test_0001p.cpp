@@ -12,7 +12,7 @@ int main()
 		std::cout << "_|" << std::endl << std::endl;
 
         std::cout << "      \__/";
-        //Backshash is not echo;
+        //Backshash is not print;
         
         /* result ->
                                     |_|   |_|
