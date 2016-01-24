@@ -17,7 +17,7 @@ int main()
 			for (int k = 0; k < 1; k++)
 			{
 				cout << x_v;
-				//Aleatory result ^^ ;)
+				//Aleatory result ^^ in Hexadecimal ! ;)
 			}
 		}
 	}
