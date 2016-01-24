@@ -15,5 +15,5 @@ int main()
 
 	int x[-a];
 	cout << x;
-	//Application Crash ;)
+	//Application Crash ^^
 }
