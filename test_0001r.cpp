@@ -8,7 +8,7 @@
 using namespace std;
 
 /*
-		Map Power Test !
+		Map Random Power Test !
 */
 
 int main()
